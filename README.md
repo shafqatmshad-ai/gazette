@@ -13,7 +13,7 @@ It is designed for easy access via **GitHub Pages**.
 ---
 
 ## 🚀 Live Website
-👉 https://your-username.github.io/your-repo-name/
+👉  https://shafqatmshad-ai.github.io/gazette/
 
 (Replace with your actual GitHub Pages link)
 
