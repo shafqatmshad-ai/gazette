@@ -20,3 +20,36 @@ It is designed for easy access via **GitHub Pages**.
 ---
 
 ## 📁 Project Structure
+
+---
+
+## 📌 Features
+- 📄 Online Gazette PDF viewing  
+- 📱 Mobile friendly design  
+- ⚡ Fast loading via GitHub Pages  
+- 🖥️ Simple and clean interface  
+
+---
+
+## 📥 How to Use
+1. Open the website link  
+2. Click **"Open Result PDF"** button  
+3. View or download the gazette result  
+
+---
+
+## ⚠️ Important Notes
+- Ensure PDF file is inside `/docs/` folder  
+- File name must be exactly:  
+  `result-2026.pdf` (no spaces)  
+- GitHub Pages must be enabled from repository settings  
+
+---
+
+## 👨‍💻 Developer
+Developed for educational use and student result management.
+
+---
+
+## 📜 License
+This project is for school/educational purposes only.
